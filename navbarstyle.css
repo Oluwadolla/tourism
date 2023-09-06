@@ -1,0 +1,11 @@
+.index{
+    color:black;
+    width: 50px;
+    text-decoration: none;
+    margin: 50px;
+    padding: 20px;
+    border: 2px solid coral;
+}
+.index:hover{
+    background-color: azure;
+}
